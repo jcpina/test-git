@@ -1,0 +1,3 @@
+Author:JCP
+Date: 01/12/2018 at 7:32am (French time)
+Initial final for test-git project
